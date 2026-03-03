@@ -1,0 +1,51 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/franc/Documents/NetBeansProjects/ProjetoSherlockHolmes/ProjetoSherlockHolmes2/ProjetoSherlockHolmes2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/franc/Documents/NetBeansProjects/ProjetoSherlockHolmes/ProjetoSherlockHolmes2/ProjetoSherlockHolmes2/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProjetoSherlockHolmes 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ProjetoSherlockHolmes 1.0-SNAPSHOT API'
+comandos
+dialogo
+entidades
+Excecoes
+itens
+mecanicas
+nucleo
+principal
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\src\main\java = 1766846133446
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\allclasses-index.html = 1766854414382
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\allpackages-index.html = 1766854414385
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\element-list = 1766854414166
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\help-doc.html = 1766854414414
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\index-all.html = 1766854414407
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\index.html = 1766854414368
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\member-search-index.js = 1766854414390
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\module-search-index.js = 1766854414387
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\overview-summary.html = 1766854414411
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\overview-tree.html = 1766854414365
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\package-search-index.js = 1766854414388
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\search.html = 1766854414409
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\serialized-form.html = 1766854414225
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\tag-search-index.js = 1766854414392
+C:\Users\franc\Documents\NetBeansProjects\ProjetoSherlockHolmes\ProjetoSherlockHolmes2\ProjetoSherlockHolmes2\target\reports\apidocs\type-search-index.js = 1766854414389

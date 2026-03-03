@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"comandos"},{"l":"dialogo"},{"l":"entidades"},{"l":"Excecoes"},{"l":"itens"},{"l":"mecanicas"},{"l":"nucleo"},{"l":"principal"}];updateSearchResults();
