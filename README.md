@@ -15,7 +15,7 @@ Beyond the narrative, this project was strictly engineered as a sandbox for appl
 Night has fallen heavily over Funchal. From the narrow, dangerous streets of *Zona Velha* (Old Town) to the luxurious *Quinta Vigia*, a deep network of corruption is silencing the city. 
 
 * **Your Goal:** Collect critical clues, interrogate suspicious characters, manage your resources (inventory and currency), and piece together the truth to arrest the masterminds.
-* **Progression:** The game challenges your deduction skills across 4 distinct levels, scaling in complexity and danger, ending at the Presidential Cabinet.
+* **Progression:** The game challenges your deduction skills across 4 distinct levels, scaling in complexity and danger, ending at the Presidential Cabinet
 
 ---
 
